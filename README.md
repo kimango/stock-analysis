@@ -9,7 +9,7 @@ Module 2 Challenge
   - The Purpose of this analysis is to provide input for Steve's parents on investing with DQ. This would provide more information about the previous stock market from the previous years.   
 
 ## Results
-![VBA_Challenge_2018](https://github.com/kimango/stock-analysis/tree/main/Resources)
+![VBA_Challenge_2018](https://github.com/kimango/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary
   - What are the advantages or disadvantages of refactoring code?
